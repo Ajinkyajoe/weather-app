@@ -1,5 +1,5 @@
 # weather-app
-Simple AngularJS weather app, using live date from weatherAPI: https://www.weatherapi.com
+Simple Angular weather app, using live date from weatherAPI: https://www.weatherapi.com
 
 ![image](https://github.com/Ajinkyajoe/weather-app/assets/17193311/ab661287-c3a7-48b1-9b84-fa487ae76502)
 
